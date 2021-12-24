@@ -8,6 +8,9 @@ This project was created as a front-end application for the MIT xPro course Full
 ## License
 MIT
 
+### Features/Improvements
+Currently, the authentication and authorization is missing. Although validation is required within the account creation process, the data is shared through all data. All users are authorized to interect with every aspect of this application. Once a user is created, they can login, withdraw, and deposit within the banking application. The home screen will show the users balance and give the option to withdraw or deposit. Only integers and positive numbers are allowed to be withdrawn or deposited. The user interacts with the application primarily through the navigation bar. 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
