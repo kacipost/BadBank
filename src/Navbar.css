@@ -1,0 +1,10 @@
+.my-navbar {
+    height: 100%;
+    align-items: center;
+    font-weight: 500;
+    display: flex;
+}
+
+.my-navbar:hover {
+    background-color:black;
+}
