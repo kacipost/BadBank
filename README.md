@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# BadBank React Application
+
+## Description/Technology:
+This project was created as a front-end application for the MIT xPro course Full-Stack Engineering with MERN. It utilizes the React framework, as well as Bootstrap styling, and formik forms and validation. It allows the user to create a banking application, deposit and withdraw from the balance. It also shows all data for all users, and updates their balance based on transactions. 
+
+##![badbank screenshot](https://user-images.githubusercontent.com/80494946/147372085-4e2cdf39-6c2e-4138-b34b-ae1f78e1cd2f.png)
+
+## License
+MIT
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
